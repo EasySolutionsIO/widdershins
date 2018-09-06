@@ -1,4 +1,4 @@
-<h3 id="{{=data.operationUniqueSlug}}-parameters">Parameters</h3>
+<h4 id="{{=data.operationUniqueSlug}}-parameters">Parameters</h4>
 
 |Parameter|In|Type|Required|Description|
 |---|---|---|---|---|
